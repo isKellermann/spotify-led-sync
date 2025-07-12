@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.env
+*.DS_Store
+
+# STM32CubeIDE and build files
+*.launch
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.cproject
+*.project
+.build/
+Debug/
+Release/
+*.ioc
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# OS Files
+Thumbs.db
+.DS_Store
