@@ -5,6 +5,10 @@ __pycache__/
 *.env
 .env
 *.DS_Store
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
 
 # STM32CubeIDE and build files
 *.launch
@@ -28,3 +32,9 @@ Release/
 # OS Files
 Thumbs.db
 .DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+
