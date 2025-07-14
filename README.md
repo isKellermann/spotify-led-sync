@@ -9,10 +9,9 @@
 - Spotify API 
 - Python 
 - STM32F446RE
-- UART serial communication
 
 ## Hardware
 
 - STM32F446RE
 - USB to Serial connection (via ST-Link)
-- WS2812B LED strip
+- LED strip
